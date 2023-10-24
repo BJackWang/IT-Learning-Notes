@@ -7,5 +7,6 @@ Today Theme:
 跳点2：链式规则双向展开  
 跳点3：条件概率乘法是否有意义  
 $H((X_1,X_2,...,X_n)|\hat X_1,\hat X_2,...,\hat X_3)=100+P_elog|\chi|^n$  
--> $\frac{1}\{n} H((X_1,X_2,...,X_n)|\hat X_1,\hat X_2,...,\hat X_3)=100+P_elog|\chi|^n$  
+-> $\frac{1}\{n} H((X_1,X_2,...,X_n)|\hat X_1,\hat X_2,...,\hat X_3)=\frac{100}\{n}+P_elog|\chi|$ 当n-> ∞时，可忽略  
+信源熵 -> X1=X2 -> X1=2X2 X1=3X2...
 
